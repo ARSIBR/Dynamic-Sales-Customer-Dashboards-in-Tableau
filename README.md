@@ -6,10 +6,10 @@
 
 This project involves the creation of dynamic sales and customer dashboards using Tableau. The dashboards provide insights into sales performance, customer demographics, and purchasing patterns, enabling data-driven decision-making.
 
+## Project Link to Tableau Public
+https://public.tableau.com/app/profile/armaan.singh.brar/viz/DynamicSalesCustomerDashboardsByArmaanSinghBrar/SalesDashboard?publish=yes
 
-## Project Structure
-
-The project contains the following files:
+## The project contains the following files:
 
 - `Dynamic Sales & Customer Dashboards By Armaan Singh Brar.twbx`: Tableau Workbook file containing all the dashboards and visualizations.
 
